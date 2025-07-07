@@ -1,0 +1,17 @@
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\bin\Debug\net8.0-windows\pizza.exe
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\bin\Debug\net8.0-windows\pizza.deps.json
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\bin\Debug\net8.0-windows\pizza.runtimeconfig.json
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\bin\Debug\net8.0-windows\pizza.dll
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\bin\Debug\net8.0-windows\pizza.pdb
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.Form1.resources
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.Properties.Resources.resources
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.csproj.GenerateResource.cache
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.AssemblyInfoInputs.cache
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.AssemblyInfo.cs
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.csproj.CoreCompileInputs.cache
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.dll
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\refint\pizza.dll
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.pdb
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\pizza.genruntimeconfig.cache
+C:\Users\OmerUYANIK\source\repos\pizza\pizza\obj\Debug\net8.0-windows\ref\pizza.dll

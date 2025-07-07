@@ -1,0 +1,5 @@
+C:\Users\OmerUYANIK\Desktop\çalışma2\pizza.exe
+C:\Users\OmerUYANIK\Desktop\çalışma2\pizza.dll
+C:\Users\OmerUYANIK\Desktop\çalışma2\pizza.deps.json
+C:\Users\OmerUYANIK\Desktop\çalışma2\pizza.runtimeconfig.json
+C:\Users\OmerUYANIK\Desktop\çalışma2\pizza.pdb
